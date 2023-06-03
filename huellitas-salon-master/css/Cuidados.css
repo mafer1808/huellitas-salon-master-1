@@ -1,0 +1,25 @@
+.body{
+  background-image: url('../img/fondo_cuidados.png');
+}
+.button{
+  padding: 0.25em 1em;
+    background-color: black;
+    border-radius: 1rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: solid;
+    margin: 0.5cm;
+    font-family: 'Poppins', sans-serif;
+}
+
+.swiper{
+
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 900px;
+  height: 600px;
+  background-color: #e8daef;
+} 
