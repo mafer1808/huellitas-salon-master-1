@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Poppins:ital,wght@0,300;0,400;1,300&family=Ubuntu:ital@1&display=swap');
+
+
+
 .body{
-  background-image: url('../img/fondo_cuidados.png');
+  background-image: url("../img/fondodepatas.jpg")
 }
 .button{
   padding: 0.25em 1em;
@@ -21,5 +25,6 @@
   justify-content: center;
   width: 900px;
   height: 600px;
-  background-color: #e8daef;
+  background-color: #f3d4e8;
+  font-family: 'Poppins', sans-serif;
 } 

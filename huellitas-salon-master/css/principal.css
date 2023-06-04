@@ -1,11 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Poppins:ital,wght@0,300;0,400;1,300&family=Ubuntu:ital@1&display=swap');
-
 *
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+.contenido-quienessomos{
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+}
+.contenido-logo{
+    max-width: 100%;
+    max-height: 100%;
+}
+.contenido_quienessomos_contenedor {
+    width: 50%;
+}
+.contenido_quienessomos_titulo{
+    font-weight: normal;
+    color: #642a73;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+
+}
+.contenido_quienessomos_resumen{
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+    color: #49451c;
+}
+.contenido_quienessomos_resumen2{
+    font-family: 'Poppins', sans-serif;
+    line-height: 30px;
+    color: #49451c;
+}
+
+
+
+
 
 .header-nav
 {  
